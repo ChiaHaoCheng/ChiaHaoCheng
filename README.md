@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 - Education:  
-M.S. in Statistics and B.S. in Applied Mathematics.
+  NTHD M.S. in Statistics and NDHU B.S. in Applied Mathematics.
 
+- Skills:
+  Modeling: (Generalized) Linear Model, Statistical Machine Learning, Reliability Statistical analysis,
+Statistical quality control, Contingency analysis, Multivariate analysis, probabilistic model.
+  Programming: R, Python, MySQL.
 
-
-Proficiency in Statistics, probabilistic model, and R programming. 
 
 
 <!--
