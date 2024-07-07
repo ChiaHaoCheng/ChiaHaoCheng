@@ -4,7 +4,6 @@
 
 ● Proficiency in Statistics, probabilistic model, and R programming. 
 
-● Committed to exploring somethings related to AI.
 
 <!--
 **ChiaHaoCheng/ChiaHaoCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
