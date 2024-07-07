@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Chia-Hao Cheng👋
 
-- Education:  
-  NTHD M.S. in Statistics and NDHU B.S. in Applied Mathematics.
+## Education:  
+  - M.S. in Statistics and B.S. in Applied Mathematics.
 
-- Skills:  
-  **Modeling**: (Generalized) Linear Model, Statistical Machine Learning, Reliability Statistical analysis,
-Statistical quality control, Contingency analysis, Multivariate analysis, probabilistic model.  
-  **Programming**: R, Python, MySQL.
+I am a new graduate from NTHU STAT. Currently, I am trying to find opportunities in **statistics**, **Mathematical Modeling** or **data science**.
+
+🌱 I’m currently learning myself to improve **Data Science Skills**, like MySQL, Python, PyTorch, etc.
+
+
+
 
 
 
