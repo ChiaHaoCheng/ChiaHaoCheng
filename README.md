@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 - Education:  
-● M.S. in Statistics and B.S. in Applied Mathematics.
+M.S. in Statistics and B.S. in Applied Mathematics.
 
-● Proficiency in Statistics, probabilistic model, and R programming. 
+
+
+Proficiency in Statistics, probabilistic model, and R programming. 
 
 
 <!--
