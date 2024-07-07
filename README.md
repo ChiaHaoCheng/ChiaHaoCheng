@@ -1,6 +1,6 @@
 ## Hi there, I'm Chia-Hao Cheng👋
 
-- Education:  
+👩‍🎓 Education:  
   - NTHU M.S. in Statistics
   - NDHU B.S. in Applied Mathematics
 
