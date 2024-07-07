@@ -1,7 +1,8 @@
 ## Hi there, I'm Chia-Hao Cheng👋
 
 - Education:  
-  - M.S. in Statistics and B.S. in Applied Mathematics.
+  - NTHU M.S. in Statistics
+  - NDHU B.S. in Applied Mathematics.
 
 I am a new graduate from NTHU STAT. Currently, I am trying to find opportunities in **statistics**, **Mathematical Modeling** or **data science**.
 
