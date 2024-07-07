@@ -4,9 +4,9 @@
   NTHD M.S. in Statistics and NDHU B.S. in Applied Mathematics.
 
 - Skills:
-  Modeling: (Generalized) Linear Model, Statistical Machine Learning, Reliability Statistical analysis,
-Statistical quality control, Contingency analysis, Multivariate analysis, probabilistic model.
-  Programming: R, Python, MySQL.
+  **Modeling**: (Generalized) Linear Model, Statistical Machine Learning, Reliability Statistical analysis,
+Statistical quality control, Contingency analysis, Multivariate analysis, probabilistic model. \\
+  **Programming**: R, Python, MySQL.
 
 
 
