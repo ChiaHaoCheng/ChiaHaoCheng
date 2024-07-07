@@ -2,7 +2,7 @@
 
 ● M.S. in Statistics and B.S. in Applied Mathematics.
 
-● Proficiency in Statistics, probabilistic model, and machine statistical learning. 
+● Proficiency in Statistics, probabilistic model, and R programming. 
 
 ● Committed to exploring somethings related to AI.
 
