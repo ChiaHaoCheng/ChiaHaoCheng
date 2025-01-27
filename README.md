@@ -7,8 +7,6 @@
 I am a new graduate from NTHU STAT. I have experience in data-driven model development.  
 Currently, I am trying to find opportunities in **statistics**, **Mathematical Modeling** or **data science**.
 
-🌱 *Currently learning*  
-  I’m currently learning myself to improve **Data Science Skills**, like MySQL, Python, PyTorch, etc.
 
 
 
