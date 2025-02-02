@@ -4,7 +4,6 @@
   - NTHU M.S. in Statistics
   - NDHU B.S. in Applied Mathematics
 
-I am a new graduate from NTHU STAT. I have experience in data-driven model development.  
 Currently, I am trying to find opportunities in **statistics**, **Mathematical Modeling** or **data science**.
 
 
